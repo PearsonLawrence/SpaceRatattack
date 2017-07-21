@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 7c5dfe6a1b3857848985c5be2d7ed856
+timeCreated: 1500582273
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group1
+    100002: //RootNode
+    100004: hallway_turn_emerglights:hallway_go_left
+    100006: hallway_turn_emerglights:Space_Lights
+    100008: hallway_turn_emerglights:Space_Lights1
+    100010: hallway_turn_emerglights:Space_Lights2
+    100012: hallway_turn_emerglights:Space_Lights3
+    100014: hallway_turn_emerglights:Space_Lights4
+    100016: hallway_turn_emerglights:Space_Lights5
+    100018: hallway_turn_emerglights:Space_Lights6
+    400000: group1
+    400002: //RootNode
+    400004: hallway_turn_emerglights:hallway_go_left
+    400006: hallway_turn_emerglights:Space_Lights
+    400008: hallway_turn_emerglights:Space_Lights1
+    400010: hallway_turn_emerglights:Space_Lights2
+    400012: hallway_turn_emerglights:Space_Lights3
+    400014: hallway_turn_emerglights:Space_Lights4
+    400016: hallway_turn_emerglights:Space_Lights5
+    400018: hallway_turn_emerglights:Space_Lights6
+    2300000: hallway_turn_emerglights:hallway_go_left
+    2300002: hallway_turn_emerglights:Space_Lights
+    2300004: hallway_turn_emerglights:Space_Lights1
+    2300006: hallway_turn_emerglights:Space_Lights2
+    2300008: hallway_turn_emerglights:Space_Lights3
+    2300010: hallway_turn_emerglights:Space_Lights4
+    2300012: hallway_turn_emerglights:Space_Lights5
+    2300014: hallway_turn_emerglights:Space_Lights6
+    3300000: hallway_turn_emerglights:hallway_go_left
+    3300002: hallway_turn_emerglights:Space_Lights
+    3300004: hallway_turn_emerglights:Space_Lights1
+    3300006: hallway_turn_emerglights:Space_Lights2
+    3300008: hallway_turn_emerglights:Space_Lights3
+    3300010: hallway_turn_emerglights:Space_Lights4
+    3300012: hallway_turn_emerglights:Space_Lights5
+    3300014: hallway_turn_emerglights:Space_Lights6
+    4300000: hallway_turn_emerglights:hallway_go_left
+    4300002: hallway_turn_emerglights:Space_Lights
+    4300004: hallway_turn_emerglights:Space_Lights1
+    4300006: hallway_turn_emerglights:Space_Lights2
+    4300008: hallway_turn_emerglights:Space_Lights3
+    4300010: hallway_turn_emerglights:Space_Lights4
+    4300012: hallway_turn_emerglights:Space_Lights5
+    4300014: hallway_turn_emerglights:Space_Lights6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: e9066e5db31be2b47a7ccea006058c32
+timeCreated: 1500582276
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: hallway_tjunction
+    100002: //RootNode
+    100004: lit_wall_pannel
+    100006: lit_wall_pannel1
+    100008: lit_wall_pannel2
+    100010: prop_keypad
+    100012: wall_pannel
+    400000: hallway_tjunction
+    400002: //RootNode
+    400004: lit_wall_pannel
+    400006: lit_wall_pannel1
+    400008: lit_wall_pannel2
+    400010: prop_keypad
+    400012: wall_pannel
+    2300000: hallway_tjunction
+    2300002: lit_wall_pannel
+    2300004: lit_wall_pannel1
+    2300006: lit_wall_pannel2
+    2300008: prop_keypad
+    2300010: wall_pannel
+    3300000: hallway_tjunction
+    3300002: lit_wall_pannel
+    3300004: lit_wall_pannel1
+    3300006: lit_wall_pannel2
+    3300008: prop_keypad
+    3300010: wall_pannel
+    4300000: hallway_tjunction
+    4300002: prop_keypad
+    4300004: wall_pannel
+    4300006: lit_wall_pannel
+    4300008: lit_wall_pannel2
+    4300010: lit_wall_pannel1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

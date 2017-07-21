@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LevelDesigner/Austin/Austin_Test_Build.unity
+  isLoaded: 1
+  isActive: 1

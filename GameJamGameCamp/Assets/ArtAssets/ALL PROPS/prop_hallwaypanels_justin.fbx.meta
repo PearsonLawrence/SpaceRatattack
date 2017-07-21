@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: ad0a418e4485f754bb633a6adb12e7e1
+timeCreated: 1500582274
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: hallway
+    100002: hallway1
+    100004: hallway2
+    100006: hallway3
+    100008: pCube25
+    100010: pCube37
+    100012: pCube53
+    100014: pCube54
+    100016: pCylinder1
+    100018: prop_gizmo_panel_roberto_combined
+    100020: prop_gizmo_panel_roberto_combined1
+    100022: prop_gizmo_panel_roberto_combined2
+    100024: prop_gizmo_panel_roberto_combined3
+    100026: prop_gizmo_panel_roberto_combined4
+    100028: prop_gizmo_panel_roberto_combined5
+    100030: prop_gizmo_panel_roberto_combined6
+    100032: prop_gizmo_panel_roberto_combined7
+    100034: prop_gizmo_panel_roberto_combined8
+    100036: prop_gizmo_panel_roberto_combined9
+    100038: //RootNode
+    100040: prop_wall_ring_monitor_justin
+    100042: prop_wall_ring_monitor_justin1
+    100044: prop_wall_ring_monitor_justin2
+    100046: prop_wall_ring_monitor_justin3
+    100048: transform1
+    100050: transform2
+    100052: transform3
+    100054: transform4
+    100056: transform5
+    100058: transform6
+    100060: transform7
+    100062: transform8
+    100064: transform9
+    400000: hallway
+    400002: hallway1
+    400004: hallway2
+    400006: hallway3
+    400008: pCube25
+    400010: pCube37
+    400012: pCube53
+    400014: pCube54
+    400016: pCylinder1
+    400018: prop_gizmo_panel_roberto_combined
+    400020: prop_gizmo_panel_roberto_combined1
+    400022: prop_gizmo_panel_roberto_combined2
+    400024: prop_gizmo_panel_roberto_combined3
+    400026: prop_gizmo_panel_roberto_combined4
+    400028: prop_gizmo_panel_roberto_combined5
+    400030: prop_gizmo_panel_roberto_combined6
+    400032: prop_gizmo_panel_roberto_combined7
+    400034: prop_gizmo_panel_roberto_combined8
+    400036: prop_gizmo_panel_roberto_combined9
+    400038: //RootNode
+    400040: prop_wall_ring_monitor_justin
+    400042: prop_wall_ring_monitor_justin1
+    400044: prop_wall_ring_monitor_justin2
+    400046: prop_wall_ring_monitor_justin3
+    400048: transform1
+    400050: transform2
+    400052: transform3
+    400054: transform4
+    400056: transform5
+    400058: transform6
+    400060: transform7
+    400062: transform8
+    400064: transform9
+    2300000: hallway
+    2300002: hallway1
+    2300004: hallway2
+    2300006: hallway3
+    2300008: prop_gizmo_panel_roberto_combined1
+    2300010: prop_gizmo_panel_roberto_combined2
+    2300012: prop_gizmo_panel_roberto_combined3
+    2300014: prop_gizmo_panel_roberto_combined7
+    2300016: prop_gizmo_panel_roberto_combined8
+    2300018: prop_gizmo_panel_roberto_combined9
+    2300020: prop_wall_ring_monitor_justin
+    2300022: prop_wall_ring_monitor_justin1
+    2300024: prop_wall_ring_monitor_justin2
+    2300026: prop_wall_ring_monitor_justin3
+    3300000: hallway
+    3300002: hallway1
+    3300004: hallway2
+    3300006: hallway3
+    3300008: prop_gizmo_panel_roberto_combined1
+    3300010: prop_gizmo_panel_roberto_combined2
+    3300012: prop_gizmo_panel_roberto_combined3
+    3300014: prop_gizmo_panel_roberto_combined7
+    3300016: prop_gizmo_panel_roberto_combined8
+    3300018: prop_gizmo_panel_roberto_combined9
+    3300020: prop_wall_ring_monitor_justin
+    3300022: prop_wall_ring_monitor_justin1
+    3300024: prop_wall_ring_monitor_justin2
+    3300026: prop_wall_ring_monitor_justin3
+    4300000: hallway
+    4300002: prop_gizmo_panel_roberto_combined1
+    4300004: hallway1
+    4300006: prop_gizmo_panel_roberto_combined2
+    4300008: prop_gizmo_panel_roberto_combined3
+    4300010: prop_wall_ring_monitor_justin
+    4300012: prop_wall_ring_monitor_justin1
+    4300014: hallway2
+    4300016: prop_gizmo_panel_roberto_combined7
+    4300018: hallway3
+    4300020: prop_gizmo_panel_roberto_combined8
+    4300022: prop_gizmo_panel_roberto_combined9
+    4300024: prop_wall_ring_monitor_justin2
+    4300026: prop_wall_ring_monitor_justin3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
